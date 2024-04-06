@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qcm3NeRbOgHyTfB3t2O44cN3v9oEFYWRcWnM9VVDN18=",
+  "Source": "Dotnet8-GlobalExceptionHandling",
+  "BasePath": "_content/Dotnet8-GlobalExceptionHandling",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
